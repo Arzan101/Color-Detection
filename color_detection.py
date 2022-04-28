@@ -1,3 +1,5 @@
+#python color_detection.py -i colorpic.jpg
+#input for code
 import cv2
 import numpy as np
 import pandas as pd
