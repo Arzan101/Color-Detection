@@ -30,6 +30,7 @@ def getColorName(R,G,B):
         if(d<=minimum):
             minimum = d
             cname = csv.loc[i,"color_name"]
+            
     return cname
 
 #function to get x,y coordinates of mouse double click
